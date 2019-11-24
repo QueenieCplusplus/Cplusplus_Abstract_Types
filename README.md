@@ -6,3 +6,7 @@
        Interface >> Abstract Class >>  Concret Class >> Instance Object
        
                      >> 越往右邊，內部表述實作更具體。
+                     
+                     >> 越往左邊，越是需要捨棄成員變數。
+                     
+                     
