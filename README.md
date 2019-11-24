@@ -5,4 +5,4 @@
 
        Interface >> Abstract Class >>  Concret Class >> Instance Object
        
- 
+                     >> 越往右邊，內部表述實作更具體。
